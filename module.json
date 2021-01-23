@@ -19,6 +19,6 @@
 			"system": "dnd5e",
 			"path": "packs/jp-main.db",
 			"entity": "Item"
-		},
+		}
 	]
 }
